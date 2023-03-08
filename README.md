@@ -1,4 +1,8 @@
+# ProtectedApkSignerForVasDolly
+一步解决加固未签名apk对齐再签名生成多渠道包的问题。
+
 # 写在前面
+
 python脚本，用于将加固完未签名的apk对齐再签名然后使用[VasDolly](https://github.com/Tencent/VasDolly)生成多渠道包。
 ----------
 
